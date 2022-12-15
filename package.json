@@ -1,0 +1,21 @@
+{
+  "name": "chatgpt-discord-bot",
+  "version": "1.0.0",
+  "description": "> ### This is a project that provides you to build your own Discord bot using ChatGPT > > ⭐️ If this repo helps you, a star is the biggest support for me and also helps you stay up-to-date  --- > **Warning** > > OpenAI added Cloudflare protections to their API in 2022-12-12, there are some differences in using it on server and desktop environment",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonnyding1/chatGPT-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonnyding1/chatGPT-discord-bot/issues"
+  },
+  "homepage": "https://github.com/sonnyding1/chatGPT-discord-bot#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
